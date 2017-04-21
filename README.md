@@ -1,10 +1,11 @@
 
 
-# tpl
+# A RESR API Seed with node.js, express and mongoose
 
 
 
 ## Usage
+node server.js
 
 
 
