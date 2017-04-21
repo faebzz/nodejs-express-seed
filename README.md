@@ -1,6 +1,6 @@
 
 
-# A RESR API Seed with node.js, express and mongoose
+# A REST API Seed with node.js, express and mongoose
 
 
 
