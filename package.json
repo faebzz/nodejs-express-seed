@@ -1,0 +1,16 @@
+{
+  "name": "grindr-server",
+  "version": "1.0.0",
+  "description": "node server for grindr webapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Schaper",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "md5": "^2.2.1",
+    "winston": "^2.3.1"
+  }
+}

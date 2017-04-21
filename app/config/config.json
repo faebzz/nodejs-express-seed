@@ -1,0 +1,7 @@
+{
+    "version" : "1.0.0",
+    "name" : "example REST Server",
+    "environment" : "production",
+    "apibase" : "/api",
+    "logLevel" : 3
+}

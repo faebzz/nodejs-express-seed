@@ -1,0 +1,13 @@
+{
+    db : {
+        type : "mongodb",
+        url : "mongodb://localhost:2701/memo",
+        user : "appadmin",
+        pass : "appadmin"
+    },
+    api : {
+        type : "express",
+        url : "localhost",
+        port : "8200"
+    }
+}

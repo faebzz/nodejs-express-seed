@@ -1,0 +1,7 @@
+{"level":"info","message":"Magic happens on port 8080","timestamp":"2016-07-01T04:35:47.889Z"}
+{"level":"info","message":"[{\"_id\":\"577553a564e0c97e0685ec8e\",\"name\":\"breaking news cnn\",\"url\":\"http://rss.cnn.com/rss/edition.rss\",\"__v\":0,\"ts\":\"2016-06-30T17:15:15.726Z\",\"tags\":[\"news\",\"breakingnews\",\"english\",\"cnn\"]}]","timestamp":"2016-07-01T04:35:54.294Z"}
+{"level":"info","message":"Magic happens on port 8080","timestamp":"2016-07-01T04:42:19.669Z"}
+{"level":"info","message":"[{\"_id\":\"5775f3fb5312df01080b1616\",\"name\":\"reuters tech news\",\"url\":\"http://feeds.reuters.com/reuters/technologyNews\",\"__v\":0,\"ts\":\"2016-07-01T04:35:47.729Z\",\"tags\":[\"news\",\"technology\",\"english\",\"reuters\"]}]","timestamp":"2016-07-01T04:42:42.983Z"}
+{"level":"info","message":"[{\"_id\":\"5775f3fb5312df01080b1616\",\"name\":\"reuters tech news\",\"url\":\"http://feeds.reuters.com/reuters/technologyNews\",\"__v\":0,\"ts\":\"2016-07-01T04:35:47.729Z\",\"tags\":[\"news\",\"technology\",\"english\",\"reuters\"]}]","timestamp":"2016-07-01T04:52:49.598Z"}
+{"level":"info","message":"Magic happens on port 8080","timestamp":"2016-07-01T05:12:54.780Z"}
+{"level":"info","message":"Magic happens on port 8080","timestamp":"2016-07-01T05:15:12.386Z"}
